@@ -1,5 +1,11 @@
 {
-  "version": "1.0.5",
+  "version": "1.4.2",
   "url": "https://raw.githubusercontent.com/PatrLore/HomaticControllerFirmware/main/firmware/firmware.bin",
-  "sha256": "54df7c84c78f19b8e3944b8bb9457e929ee20ca297ee7559845cb797e75af1d8"
+  "sha256": "2fc578fa4c86ef665835061f93929f27ebea18ceff29d4916a9e39c7c81a7ae8",
+  "filesystem": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/PatrLore/HomaticControllerFirmware/main/filesystem/littlefs.bin",
+    "sha256": "dda80018cb2ffd53e9a845f23099a8f67ce3dedc776cd60597b7d28e360a14e5",
+    "size": 851968
+  }
 }
